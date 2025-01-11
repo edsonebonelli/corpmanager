@@ -1,0 +1,7 @@
+Connect to CorpManager
+
+Username - corpmanager
+Password - kaQZXySYo4rojwlr
+
+
+mongodb+srv://corpmanager:kaQZXySYo4rojwlr@corpmanager.yckhg.mongodb.net/?retryWrites=true&w=majority&appName=corpmanager
